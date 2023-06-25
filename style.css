@@ -1,5 +1,5 @@
 .B{
-    background-color: red;
+    background-color: plum;
 }
 
 
@@ -8,4 +8,8 @@
     margin-left: 150px;
 
     
+}
+body{
+    background: rgb(134,134,169
+    );
 }
